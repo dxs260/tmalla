@@ -1,0 +1,56 @@
+.foot{
+	border-top: 1px solid #ccc;
+	
+}
+
+.foot .footimg{
+	width: 1013px;
+	height: 150px;
+	padding: 10px;
+	margin: 0px 180px 0px 180px;
+	
+}
+
+.foot .totalsuperlink{
+	width: 90%;
+	margin: auto;
+	border-top: 1px solid #ccc;
+	padding: 10px 10px 0px 50px;
+	
+}
+
+.foot .column{
+	width: 20%;
+	float: left;
+	margin-left: 0;
+	margin-top: 20px;
+}
+
+.foot .columntitle{
+	font-weight: bold;
+	color: dimgray;
+	font-size: 16px;
+	padding: 0px 0px 10px 0px;
+	
+}
+
+.foot .totalsuperlink a{
+	display: block;
+	text-decoration: none;
+	font-size: 12px;
+	padding: 2px;
+	
+}
+
+a{
+	color: #999;
+}
+
+a:hover{
+	color: #C40000;
+}
+
+body{
+	font-size: 14px;
+	font-family: arial;
+}

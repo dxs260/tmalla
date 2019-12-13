@@ -1,0 +1,65 @@
+.fenleiwrapper .left{
+	width: 200px;
+	background-color: #e2e2e2;
+	margin-left: 20px;
+	position: absolute;
+	left: 0;
+	top: 0;
+	z-index: 1;
+}
+
+.left a{
+	color: #000;
+}
+
+.left a:hover{
+	color: lightblue;
+	text-decoration: none;
+}
+
+.rightmenu{
+	width: 800px;
+	height: 510px;
+	background-color: white;
+	margin-left: 220px;
+	position: absolute;
+	left: 0;
+	top: 0;
+	z-index: 1;
+}
+
+.rightmenu .row{
+	margin: 20px 80px 0px 80px;
+}
+
+.rightmenu .seperator{
+	margin-top: 20px;
+	border-bottom-style: dashed;
+	border-bottom-width: 1px;
+	border-bottom-color: #e7e7e7;
+}
+
+.rightmenu a{
+	color: #999;
+	font-size: 14px;
+	margin: 8px;
+}
+
+.rightmenu a:hover{
+	color: #C40000;
+	text-decoration: none;
+	}
+	
+.fenleiwrapper{
+	line-height: 30px;
+	padding-left: 10px;
+	font-size: 14px;
+}
+
+.fenleiwrapper span{
+	margin-right: 10px;
+}
+
+.eachcategory:hover{
+	background-color: white;
+}

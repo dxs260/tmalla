@@ -1,0 +1,56 @@
+.wrapper{
+	margin: 0px 0px;
+	border-top: 1px solid #E7E7E7;
+}
+.wrapper img{
+	outline-width:0px;
+	vertical-align:top;   /*消除之间的空白间隙*/	  
+}
+
+.wrapper .main{
+	background-color: black;
+	border-top: 3px solid #C40000;
+}
+
+.wrapper .line2 .slash{
+	color: white;
+}
+
+.wrapper .line1 a, .wrapper .line2 a{
+	color: white;
+	padding: 0px 10px;
+	text-decoration: none;	
+}
+
+.wrapper .line1 a:hover, .wrapper .line2 a:hover{
+	color: #ccc;
+}
+
+.wrapper .line1, .wrapper .line2{
+	padding: 10px 0px;
+	    margin-left: 14px;
+}
+
+.wrapper .line3 {
+	margin-left: 14px;
+	padding-bottom: 30px;
+}
+
+.wrapper .line3 span{
+	color: #a4a4a4;
+}
+
+.line3 .copy{
+	color: #686868;
+	margin: 10px 0px;
+}
+
+.line3 .footimg2{
+	 margin-left: 0px;
+	 padding: 10px 0px;
+}
+
+body{
+	font-size: 12px;
+	font-family: arial;
+}
